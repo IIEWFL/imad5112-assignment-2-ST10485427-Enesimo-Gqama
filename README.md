@@ -30,7 +30,6 @@ Screenshots of the app:
 ![HAW1-2025 (11) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_05_21 13_17_19](https://github.com/user-attachments/assets/7587618b-a60d-4b57-9de0-bceb65a4b120) 
 ![HAW1-2025 (11) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_05_21 13_17_42](https://github.com/user-attachments/assets/0cb70686-6518-43dc-9e3b-ebc7585abf81) 
 ![HAW1-2025 (11) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_05_21 13_17_49](https://github.com/user-attachments/assets/e220123d-a535-4fe1-80ae-64888a98246c) 
-![HAW1-2025 (11) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_05_21 13_17_57](https://github.com/user-attachments/assets/05034a53-750d-4443-bd31-e6b377eda5d9) 
 ![HAW1-2025 (11) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_05_21 13_18_19](https://github.com/user-attachments/assets/d9ec0b18-0003-46f1-8aa2-958e4926d0cf) 
 ![HAW1-2025 (11) - lab-f3bb02a4-0730-4e14-b9d6-2c527a5e01d3 westeurope cloudapp azure com_7022 - Remote Desktop Connection 2025_05_21 13_18_34](https://github.com/user-attachments/assets/2420b738-90d7-4a68-8617-48b1fb990928) 
 
