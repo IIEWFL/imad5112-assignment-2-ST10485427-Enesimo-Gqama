@@ -5,6 +5,7 @@ This is the link of the repository:
 https://github.com/IIEWFL/imad5112-assignment-2-ST10485427-Enesimo-Gqama.git
 
 This is the link of the YouTube video: 
+https://youtu.be/FQNF_B0CMkU?si=D6NcEP6lIcpIwzXE 
 
 The purpose of the app: 
 The objective of this app is to test users' broad knowledge of historical facts from different eras and continents in order to determine how well they know history. This app includes questions from several centuries to determine whether users are aware of their country's history and well-being, as well as the history of other countries throughout the world.  
